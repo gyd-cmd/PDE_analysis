@@ -49,7 +49,6 @@ def veto(filename):
                 boolList[i-5+var] = 1
         else:
             pass
-            print("name")
     return boolList
 
 
